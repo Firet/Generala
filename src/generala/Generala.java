@@ -9,7 +9,6 @@ public class Generala {
     public static Scanner sca;
     public static String[] nombreJugadores;
     public static String valorInput="";
-    public static Integer mayorNumero[]; // chequear si uso esto
     public static Integer jugadaGuardada[];
     public static Integer primeraTirada[];
     public static Integer Eleccion;   // cambiar nombre
